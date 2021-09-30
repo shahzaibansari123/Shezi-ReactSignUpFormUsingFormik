@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shezi-ReactSignUpFormUsingFormik/static/css/main.a617e044.chunk.css",
+    "main.js": "/Shezi-ReactSignUpFormUsingFormik/static/js/main.7116e018.chunk.js",
+    "main.js.map": "/Shezi-ReactSignUpFormUsingFormik/static/js/main.7116e018.chunk.js.map",
+    "runtime-main.js": "/Shezi-ReactSignUpFormUsingFormik/static/js/runtime-main.739a64e7.js",
+    "runtime-main.js.map": "/Shezi-ReactSignUpFormUsingFormik/static/js/runtime-main.739a64e7.js.map",
+    "static/js/2.6cb4832e.chunk.js": "/Shezi-ReactSignUpFormUsingFormik/static/js/2.6cb4832e.chunk.js",
+    "static/js/2.6cb4832e.chunk.js.map": "/Shezi-ReactSignUpFormUsingFormik/static/js/2.6cb4832e.chunk.js.map",
+    "static/js/3.663108ff.chunk.js": "/Shezi-ReactSignUpFormUsingFormik/static/js/3.663108ff.chunk.js",
+    "static/js/3.663108ff.chunk.js.map": "/Shezi-ReactSignUpFormUsingFormik/static/js/3.663108ff.chunk.js.map",
+    "index.html": "/Shezi-ReactSignUpFormUsingFormik/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Shezi-ReactSignUpFormUsingFormik/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6cb4832e.chunk.js.LICENSE.txt": "/Shezi-ReactSignUpFormUsingFormik/static/js/2.6cb4832e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.739a64e7.js",
+    "static/js/2.6cb4832e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7116e018.chunk.js"
+  ]
+}
